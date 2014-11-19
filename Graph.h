@@ -1,3 +1,6 @@
+#ifndef GRAPH_H
+#define GRAPH_H
+
 #include <vector>
 #include <cassert>
 
@@ -44,3 +47,5 @@ public:
 	}
 
 };
+
+#endif //end Graph.h
